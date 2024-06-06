@@ -4,7 +4,7 @@ I am _Garima Minocha_. I am completing my Bachelor of Engineering focused in Com
 
 ### 🌱 What do I do and What have I done? 
 
-- I recently interned at ICICI Bank working with generative AI and learning about Large Language Models.
+- I am currently an intern at B/S/H/ Home Appliances Group, working on many Data Science and Analytics projects. I also interned at ICICI Bank working with generative AI and learning about Large Language Models.
 - I am currently trying to get in on the Competitive Programming action, so hit me up if you have tips and insights.
 - I was also OnePlus Student Ambassador for the year 2021-2022.
 - Managed many events at Literary Society at Thapar University.
