@@ -3,7 +3,7 @@
 I am _Garima Minocha_. I am doing my Master in Comp Sci @ Adelaide University Australia. I have worked as a Web Developer and Generative AI Engineer previously but like a bird out at sea I'm here to build a new identity.
 
 ### ⚡ One line that describes me best? 
-An ambitious girl who loves to find problems that are way above my ability and try and solve them.
+An ambitious girl who loves to find problems that are way above her ability, then tries to solve them.
 
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/garimeh) 
